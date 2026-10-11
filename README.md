@@ -4,6 +4,6 @@ Research experience includes securitized credit, primarily mortgage-backed secur
 
 I currently work at Fitch Group, previously worked at S&P Global, and Ecofin. 
 
-Graduate of Cornell, Wariwck and Nottingham University. 
+Graduate of Cornell, Warwick and Nottingham University. 
 
 Research data sources include: Bloomberg, Trepp, Fama and French Data Library, AQR Datasets (AQR Capital Management, LLC), Cornell Parker Center for Investment Research, University of Chicago, Wharton Research Data Services, and EDHEC Business School Risk Indices.
